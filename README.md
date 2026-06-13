@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/icon.png" alt="SideTime app icon" width="128" height="128" />
+
 # SideTime
 
 ### Ambient time awareness for macOS
@@ -17,6 +19,14 @@
 SideTime shows a quiet progress bar along the edge of your Mac, so you can *feel* how much of your day, hour, or work session has passed — without timers, logging, or interruptions.
 
 It lives at the edge of your screen, just inside your peripheral vision. A glance is enough to know where you are in the day. No starting, no stopping, no reports to read.
+
+<div align="center">
+
+<img src="assets/preview-light.png" alt="SideTime showing the day's progress in light mode" width="32%" />
+<img src="assets/preview-dark.png" alt="SideTime edge rail in dark mode" width="32%" />
+<img src="assets/preview-events.png" alt="SideTime mapping calendar events onto the time rail" width="32%" />
+
+</div>
 
 ## Highlights
 
