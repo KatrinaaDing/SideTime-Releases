@@ -20,13 +20,13 @@ SideTime shows a quiet progress bar along the edge of your Mac, so you can *feel
 
 It lives at the edge of your screen, just inside your peripheral vision. A glance is enough to know where you are in the day. No starting, no stopping, no reports to read.
 
-<div align="center">
-
-<img src="assets/preview-light.png" alt="SideTime showing the day's progress in light mode" width="32%" />
-<img src="assets/preview-dark.png" alt="SideTime edge rail in dark mode" width="32%" />
-<img src="assets/preview-events.png" alt="SideTime mapping calendar events onto the time rail" width="32%" />
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="33%"><img src="assets/preview-light.png" alt="SideTime showing the day's progress in light mode" /><br/><sub><b>Light theme</b></sub></td>
+<td align="center" width="33%"><img src="assets/preview-dark.png" alt="SideTime edge rail in dark mode" /><br/><sub><b>Dark theme</b></sub></td>
+<td align="center" width="33%"><img src="assets/preview-events.png" alt="SideTime mapping calendar events onto the time rail" /><br/><sub><b>Calendar integration</b></sub></td>
+</tr>
+</table>
 
 ## Highlights
 
