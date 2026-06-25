@@ -22,9 +22,15 @@ It lives at the edge of your screen, just inside your peripheral vision. A glanc
 
 <div align="center">
 
-<img src="assets/preview-light.png" alt="SideTime showing the day's progress in light mode" width="30%" />&nbsp;&nbsp;<img src="assets/preview-dark.png" alt="SideTime edge rail in dark mode" width="30%" />&nbsp;&nbsp;<img src="assets/preview-events.png" alt="SideTime mapping calendar events onto the time rail" width="30%" />
+<img src="assets/onboarding-panel.gif" alt="Opening the SideTime edge panel" width="30%" />&nbsp;&nbsp;<img src="assets/onboarding-modes.gif" alt="Switching between Day, Hour, and Work modes" width="30%" />&nbsp;&nbsp;<img src="assets/onboarding-events.gif" alt="Viewing calendar events on the SideTime rail" width="30%" />
 
-<sub><b>Light theme</b>&emsp;·&emsp;<b>Dark theme</b>&emsp;·&emsp;<b>Calendar integration</b></sub>
+<sub><b>Quick panel</b>&emsp;·&emsp;<b>Time modes</b>&emsp;·&emsp;<b>Events</b></sub>
+
+<br /><br />
+
+<img src="assets/preview-light.png" alt="SideTime showing the day's progress in light mode" width="30%" />&nbsp;&nbsp;<img src="assets/preview-dark.png" alt="SideTime edge rail in dark mode" width="30%" />
+
+<sub><b>Light theme</b>&emsp;·&emsp;<b>Dark theme</b></sub>
 
 </div>
 
