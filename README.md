@@ -26,9 +26,10 @@ It lives at the edge of your screen, just inside your peripheral vision. A glanc
 
 <sub><b>Quick panel</b>&emsp;·&emsp;<b>Time modes</b>&emsp;·&emsp;<b>Events</b></sub>
 
-<br /><br />
+<br />
 
-<img src="assets/preview-light.png" alt="SideTime showing the day's progress in light mode" width="30%" />&nbsp;&nbsp;<img src="assets/preview-dark.png" alt="SideTime edge rail in dark mode" width="30%" />
+<img src="assets/preview-light.png" alt="SideTime showing the day's progress in light mode" width="43%" />
+<img src="assets/preview-dark.png" alt="SideTime edge rail in dark mode" width="40%" />
 
 <sub><b>Light theme</b>&emsp;·&emsp;<b>Dark theme</b></sub>
 
