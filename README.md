@@ -6,7 +6,7 @@
 
 ### Ambient time awareness for macOS
 
-**[Visit the website →](https://katrinaading.github.io/SideTime/)**  ·  **[Download for Mac →](https://github.com/KatrinaaDing/SideTime-Releases/releases/latest)**
+**[Visit the website →](https://sidetime.app/)**  ·  **[Download for Mac →](https://github.com/KatrinaaDing/SideTime-Releases/releases/latest)**
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14.0%2B-blue)
 ![Apple Silicon & Intel](https://img.shields.io/badge/Apple%20Silicon%20%26%20Intel-supported-555)
